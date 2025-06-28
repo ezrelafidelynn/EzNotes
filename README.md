@@ -1,30 +1,18 @@
-Absolutely! Here's your updated and polished `README.md` with a full-feature stack list including **DaisyUI**, **React Router**, **TailwindCSS**, **Mongoose**, **Git**, and a few additional enhancements to emphasize tools and features.
 
-You can copy this directly into your `README.md` file:
+# 📝 EzNotes - The notes app you're looking for
 
----
+Video Demo: https://drive.google.com/file/d/1OgfyyYt5byX3QFDNvQRhtq0mLAcX6c-x/view?usp=sharing
 
-````markdown
-<h1 align="center">📝 EzNotes</h1>
+## EzNotes is a minimalist, full-stack Notes App using modern web technologies and best practices.  
+## Create. Edit. Organize. All in one clean interface.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-MERN-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Styled%20with-TailwindCSS-38bdf8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Components-DaisyUI-fbbf24?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Routing-ReactRouter-ef4444?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>EzNotes</i> is a minimalist, full-stack Notes App using modern web technologies and best practices.  
-  <br/>Create. Edit. Organize. All in one clean interface.
-</p>
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://placehold.co/800x400?text=EzNotes+App+Screenshot" alt="EzNotes App UI Preview" />
+  <img src="preview.png" alt="EzNotes App UI Preview" />
 </p>
 
 ---
