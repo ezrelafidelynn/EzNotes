@@ -3,8 +3,8 @@
 
 Video Demo: https://drive.google.com/file/d/1OgfyyYt5byX3QFDNvQRhtq0mLAcX6c-x/view?usp=sharing
 
-## EzNotes is a minimalist, full-stack Notes App using modern web technologies and best practices.  
-## Create. Edit. Organize. All in one clean interface.
+### EzNotes is a minimalist, full-stack Notes App using modern web technologies and best practices.  
+### Create. Edit. Organize. All in one clean interface.
 
 
 ---
